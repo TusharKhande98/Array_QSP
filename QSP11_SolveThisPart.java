@@ -24,7 +24,7 @@ public class QSP11_SolveThisPart
         return  res1;
 //        return  res;
     }
-
+ 
     public static boolean checkPrime(int a)
     {
         if (a==1)
