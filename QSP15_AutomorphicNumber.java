@@ -17,7 +17,7 @@ public class QSP15_AutomorphicNumber
         return true;
     }
 
-
+ 
     public static void main(String[] args)
     {
         Scanner s = new Scanner(System.in);
