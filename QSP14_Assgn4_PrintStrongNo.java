@@ -13,7 +13,7 @@ public class QSP14_Assgn4_PrintStrongNo
             }
             sum+=fact; //0+120=120
             temp/=10;
-        }
+        } 
         return sum==n;
     }
 
