@@ -12,7 +12,7 @@ public class QSP12_Merge2ArraysIn1Array
             System.out.print("Enter value of array element a[" + i + "]:- ");
             a[i]=s.nextInt();
         }
-
+ 
         System.out.print("\nEnter size of Array-B:- ");
         int [] b = new int[s.nextInt()];
         for (int i=0; i<b.length; i++)
