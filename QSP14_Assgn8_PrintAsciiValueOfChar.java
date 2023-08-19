@@ -6,7 +6,7 @@ public class QSP14_Assgn8_PrintAsciiValueOfChar
         Scanner s = new Scanner(System.in);
         System.out.print("Enter size of array:- ");
         int [] a = new int[s.nextInt()];
-
+ 
         for (int i=0; i<a.length; i++)
         {
             System.out.print("Enter value of array element a[" + i + "]:- ");
