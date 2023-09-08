@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class QSP13_StoreArrayInZigZagPosition
 {
     public static int [] merge(int []a, int []b)
-    {
+    { 
         int [] c = new int[a.length + b.length];
         int index = 0;
         int big = a.length>b.length?a.length:b.length;
