@@ -1,5 +1,5 @@
 public class QSP11_SolveThisPart
-{ 
+{  
     public static int [] isPrime(int[] num)
     {
         int [] res = new int[100];
