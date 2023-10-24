@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class QSP14_Assgn5_PrintArmstrongNo
 {
